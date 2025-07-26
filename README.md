@@ -17,7 +17,7 @@ Organização dos campos em pares para melhor visualização.</p>
   </li>
 </ul>
 
-<img width="1909" height="918" alt="image" src="https://github.com/user-attachments/assets/ea26adc3-bee6-4228-9421-90124368a5fd" />
+<img width="1899" height="881" alt="image" src="https://github.com/user-attachments/assets/7a6a6f20-1b48-473a-a606-a809334c0841" />
 
 
 
